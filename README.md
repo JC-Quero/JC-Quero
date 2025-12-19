@@ -34,9 +34,7 @@
 <hr>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=JC-Quero&icon=5&color=4" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=JC-Quero&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 <br>
